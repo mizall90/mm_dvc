@@ -1,0 +1,4 @@
+[core]
+    remote = local-data-storage
+['remote "local-data-storage"']
+    url = /media/mizal/Windows/Projects-Test/datacontest_v2/local-data-storage
