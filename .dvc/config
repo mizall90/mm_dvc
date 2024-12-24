@@ -1,0 +1,4 @@
+[core]
+    remote = local-data-storage
+['remote "local-data-storage"']
+    url = /data/media/local-data-storage
